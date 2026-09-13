@@ -10,7 +10,7 @@ Each entry links straight to the original thread.
 - [HLD](#hld) (27)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
-- [Engineering Articles](#engineering-articles) (9)
+- [Engineering Articles](#engineering-articles) (10)
 - [Distributed Systems](#distributed-systems) (8)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
@@ -85,6 +85,7 @@ Each entry links straight to the original thread.
 | [How JavaScript Executes The Code - Behind The Scenes](https://x.com/Harry_The_Nerd/status/2075158256826335454) | How the JavaScript engine executes code under the hood. | 2026-07-09 |
 | [Python's Inner Working - Behind The Scenes](https://x.com/Harry_The_Nerd/status/2078116519029129646) | How Python executes code under the hood. | 2026-07-17 |
 | [System Design Of A Proximity Service](https://x.com/Harry_The_Nerd/status/2091192716059459825) | Designing a proximity service for discovering nearby apps | 2026-08-22 |
+| [System Design for Beginners: How to Start With HLD and LLD](https://x.com/Harry_The_Nerd/status/2099048223797043656) | System design fundamentals for beginners | 2026-09-13 |
 
 ## Distributed Systems
 
