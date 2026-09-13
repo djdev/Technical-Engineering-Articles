@@ -474,6 +474,13 @@
       "category": "Distributed Systems",
       "date": "2026-09-06",
       "description": "Distributed transactions and case-studies"
+    },
+    {
+      "title": "System Design for Beginners: How to Start With HLD and LLD",
+      "url": "https://x.com/Harry_The_Nerd/status/2099048223797043656",
+      "category": "Engineering Articles",
+      "date": "2026-09-13",
+      "description": "System design fundamentals for beginners"
     }
 
   ]
