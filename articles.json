@@ -481,6 +481,13 @@
       "category": "Engineering Articles",
       "date": "2026-09-13",
       "description": "System design fundamentals for beginners"
+    },
+    {
+      "title": "Design Google Maps",
+      "url": "https://x.com/Harry_The_Nerd/status/2101675662482571673",
+      "category": "HLD",
+      "date": "2026-09-20",
+      "description": "System design for a mapping and navigation platform like Google Maps"
     }
 
   ]

@@ -7,7 +7,7 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (27)
+- [HLD](#hld) (28)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (10)
@@ -47,6 +47,7 @@ Each entry links straight to the original thread.
 | [Design Medium](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for an open publishing and social journalism platform like Medium | 2026-08-03 |
 | [Design Google Docs](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for a real-time collaborative platform like Google Docs | 2026-08-11 |
 | [Design Google Drive](https://x.com/Harry_The_Nerd/status/2088619948113641872) | System design of a cloud storage service like Google Drive | 2026-08-15 |
+| [Design Google Maps](https://x.com/Harry_The_Nerd/status/2101675662482571673) | System design for a mapping and navigation platform like Google Maps | 2026-09-20 |
 
 ## LLD
 
